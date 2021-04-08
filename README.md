@@ -1,2 +1,2 @@
 # MVC-Hotel-Room-Reservation-App
-An application to make online reservations for a hotel, using db, reservations can be made by date, the administrator can see all customers with all the reservations they have, can change reservations.
+An application to make online reservations for a hotel, using db, reservations can be made by date, the administrator can see all customers with all the reservations they have, he can change reservations.The administrator can add more rooms for booking or delete them. The application may also make different offers, eg if you book 2 the third room you will receive it for free. The client user can make reservations and can see their own reservations.
